@@ -1,0 +1,29 @@
+/* container */
+.container {
+  margin: 5vh auto;
+}
+/* utility classes */
+.my-30 {
+  margin-top: 15%;
+}
+
+/* cards */
+.card {
+  float: none;
+  width: 100%;
+  height: 370px;
+}
+
+#card-orange {
+  background: hsl(31, 77%, 52%);
+  border-bottom-left-radius: 0px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 0px;
+}
+
+#card-vd-cyan {
+  background: hsl(179, 100%, 13%);
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}

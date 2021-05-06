@@ -1,0 +1,23 @@
+/* main container */
+.container {
+  max-width: 90%;
+  margin: 25vh auto;
+}
+
+html {
+  font-size: 14px;
+}
+
+/* card */
+.card {
+  height: 350px;
+}
+
+@media (max-width: 556px) {
+  .btn {
+    padding: 10px 17px;
+  }
+  html {
+    font-size: 13px;
+  }
+}
